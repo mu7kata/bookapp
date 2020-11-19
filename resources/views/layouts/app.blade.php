@@ -24,6 +24,10 @@
 			margin-right: 6px;
 		}
 
+		button .fa {
+			margin-right: 6px;
+		}
+
 		.table-text div {
 			padding-top: 6px;
 		}
